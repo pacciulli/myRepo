@@ -1,0 +1,58 @@
+D:\Caue\Unifei\TFG\TFG\bin\Debug\TFG.exe
+D:\Caue\Unifei\TFG\TFG\bin\Debug\TFG.pdb
+D:\Caue\Unifei\TFG\TFG\bin\Debug\TFG.xml
+D:\Caue\Unifei\TFG\TFG\bin\Debug\Emgu.CV.dll
+D:\Caue\Unifei\TFG\TFG\bin\Debug\Emgu.CV.UI.dll
+D:\Caue\Unifei\TFG\TFG\bin\Debug\Emgu.Util.dll
+D:\Caue\Unifei\TFG\TFG\bin\Debug\zlib.net.dll
+D:\Caue\Unifei\TFG\TFG\bin\Debug\ZedGraph.dll
+D:\Caue\Unifei\TFG\TFG\bin\Debug\Emgu.CV.xml
+D:\Caue\Unifei\TFG\TFG\bin\Debug\Emgu.CV.UI.xml
+D:\Caue\Unifei\TFG\TFG\bin\Debug\Emgu.Util.xml
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\TFG.Form1.resources
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\TFG.Resources.resources
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\TFG.exe
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\TFG.xml
+D:\Caue\Unifei\TFG\TFG\obj\x86\Debug\TFG.pdb
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\TFG.exe
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\TFG.xml
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\TFG.pdb
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\TFG.exe
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\TFG.pdb
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\TFG.xml
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\Emgu.CV.dll
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\Emgu.CV.UI.dll
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\Emgu.Util.dll
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\zlib.net.dll
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\ZedGraph.dll
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\Emgu.CV.xml
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\Emgu.CV.UI.xml
+D:\Caue\Unifei\TFG - Cam\TFG\bin\Debug\Emgu.Util.xml
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\TFG.Form1.resources
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\TFG.Resources.resources
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Caue\Unifei\TFG - Cam\TFG\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.exe
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.xml
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.pdb
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\TFG.exe
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\TFG.pdb
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\TFG.xml
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\Emgu.CV.dll
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\Emgu.CV.UI.dll
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\Emgu.Util.dll
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\zlib.net.dll
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\ZedGraph.dll
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\Emgu.CV.xml
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\Emgu.CV.UI.xml
+D:\Caue\TD\TFG - Cam\TFG\bin\Debug\Emgu.Util.xml
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.Form1.resources
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.Resources.resources
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.Form2.resources
