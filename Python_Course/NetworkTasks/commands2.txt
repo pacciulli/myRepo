@@ -1,0 +1,3 @@
+interface loopback 0
+ip address 2.2.2.2 255.255.255.0
+copy run start
