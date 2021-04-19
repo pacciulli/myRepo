@@ -3,7 +3,7 @@ from unittest import TestCase
 
 
 def two_integers_sum(a, b):
-    return 0
+    return a + b
 
 
 # Create your tests here.
