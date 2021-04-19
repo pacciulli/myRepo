@@ -9,4 +9,4 @@ def two_integers_sum(a, b):
 # Create your tests here.
 class TestSum(TestCase):
     def test_sum(self):
-        self.assertEqual(two_integers_sum(2, 1), 3)
+        self.assertEqual(two_integers_sum(2, 3), 5)
