@@ -1,6 +1,7 @@
 from django.test import TestCase
 from restAPI import models
 from django.urls import reverse
+from django.contrib.auth.models import User
 
 
 # Create your tests here.
@@ -21,6 +22,12 @@ class TestModel(TestCase):
 
 
 class TestViews(TestCase):
+    def setUp(self):
+        user = User.objects.create_user(
+            username="test1234", email="test@example.com", password="test1234"
+        )
+        self.client.login(username="test1234", password="test1234")
+
     def test_expense_create(self):
         payload = {
             "amount": 50.0,
