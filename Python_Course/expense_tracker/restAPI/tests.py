@@ -2,6 +2,8 @@ from django.test import TestCase
 from restAPI import models
 from django.urls import reverse
 from django.contrib.auth.models import User
+from rest_framework_api_key.models import APIKey
+from rest_framework.test import APIClient
 
 
 # Create your tests here.
@@ -23,10 +25,9 @@ class TestModel(TestCase):
 
 class TestViews(TestCase):
     def setUp(self):
-        user = User.objects.create_user(
-            username="test1234", email="test@example.com", password="test1234"
-        )
-        self.client.login(username="test1234", password="test1234")
+        api_key, key = APIKey.objects.create_key(name="expense-service")
+        self.client = APIClient()
+        self.client.credentials(HTTP_AUTHORIZATION=f"Api-Key {key}")
 
     def test_expense_create(self):
         payload = {
