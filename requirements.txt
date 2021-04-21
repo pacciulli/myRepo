@@ -3,3 +3,5 @@ pre-commit
 djangorestframework==3.12.4
 django-filter==2.4.0
 djangorestframework-api-key==2.*
+graphene-django==2.15.0
+graphene~=2.1.8

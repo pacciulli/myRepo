@@ -1,0 +1,34 @@
+[
+ {
+   "model": "graphqlAPI.user",
+   "pk": 1,
+   "fields": {
+     "name": "John Doe",
+     "followers": []
+   }
+ },
+ {
+   "model": "graphqlAPI.user",
+   "pk": 2,
+   "fields": {
+     "name": "Dan Bilzerian",
+     "followers": [1]
+   }
+ },
+  {
+ "model": "graphqlAPI.post",
+ "pk": 1,
+ "fields": {
+   "content": "I don't know who I am",
+   "created_by": 1
+ }
+},
+{
+ "model": "graphqlAPI.post",
+ "pk": 2,
+ "fields": {
+   "content": "I love to party!!!",
+   "created_by": 2
+ }
+}
+]
