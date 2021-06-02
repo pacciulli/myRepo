@@ -56,3 +56,21 @@ D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.Resources.resources
 D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\Caue\TD\TFG - Cam\TFG\obj\x86\Debug\TFG.Form2.resources
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\TFG.exe
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\TFG.pdb
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\TFG.xml
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\zlib.net.dll
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\ZedGraph.dll
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\Emgu.CV.xml
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\Emgu.CV.UI.xml
+D:\GIT Repo\myRepo\TFG - Cam\TFG\bin\Debug\Emgu.Util.xml
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.vbprojAssemblyReference.cache
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.Form1.resources
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.Form2.resources
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.Resources.resources
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.vbproj.GenerateResource.cache
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.vbproj.CoreCompileInputs.cache
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.vbproj.CopyComplete
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.exe
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.xml
+D:\GIT Repo\myRepo\TFG - Cam\TFG\obj\x86\Debug\TFG.pdb
